@@ -7,7 +7,7 @@
 3. Install this app in your computer
 
 ```
-$ npm install
+$ npm installs
 ```
 
 4. Run this app
